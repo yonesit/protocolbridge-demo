@@ -18,8 +18,6 @@ In Fabriken sprechen Maschinen verschiedene Protokolle – Modbus, OPC-UA, MQTT.
 
 ProtocolBridge liest alle Protokolle, normalisiert die Daten und zeigt alles in einem einheitlichen Dashboard und einer REST API an.
 
-**Preismodell:** 99 – 299 € / Monat pro Fabrik
-
 ---
 
 ## Architektur
@@ -107,4 +105,4 @@ Protocolbridge/
 
 ## Entwickler
 
-**Jonas** · [@itgnf](https://github.com/itgnf) · jonasitgnf@gmail.com
+**Yones Alizai** · [@yonesit](https://github.com/itgnf) · jonasitgnf@gmail.com
